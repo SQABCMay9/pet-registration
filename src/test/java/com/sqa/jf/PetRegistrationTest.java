@@ -27,11 +27,11 @@ import org.junit.*;
 public class PetRegistrationTest {
 
 	/**
-	 * Test method for {@link com.sqa.jf.PetRegistration#registerPet()}.
+	 * Test method for {@link com.sqa.jf.PetRegistration#registerPets()}.
 	 */
 	@Test
 	public void testRegisterPet() {
-		PetRegistration.registerPet();
+		PetRegistration.registerPets();
 	}
 
 }
