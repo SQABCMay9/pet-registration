@@ -37,6 +37,20 @@ public class PetRegistration {
 		retrievePetDetails();
 		displayPetDetails();
 		exitApplication();
+
+		// char[] myLettersA;
+		// myLettersA = new char[5];
+		//
+		// char[] myLettersB = new char[5];
+		//
+		// char[] myLettersC = { 'a', 'b', 'c', 'd', 'e' };
+		//
+		// char[] myLettersD = new char[5];
+		// myLettersD[0] = 'a';
+		// myLettersD[1] = 'b';
+		// myLettersD[2] = 'c';
+		// myLettersD[3] = 'd';
+		// myLettersD[4] = 'e';
 	}
 
 	private static void displayPetDetails() {
